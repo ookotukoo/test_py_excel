@@ -42,8 +42,6 @@ keys_input['d2'] = keys_input['d2year'] + keys_input['d2month'] + keys_input['d2
 
 datas_for_excel = {'Дата USD/RUB': [], 'Курс USD/RUB': [], 'Время USD/RUB': [], 'Дата JPY/RUB': [], 'Курс JPY/RUB': [], 'Время JPY/RUB': [], 'Результат': []}
 
-# 'Дата JPY/RUB': [], 'Курс JPY/RUB': [], 'Время JPY/RUB': [], 'Результат': []
-
 USD_RUB = {'currency': 'USD_RUB'}
 
 JPY_RUB = {'currency': 'JPY_RUB'}
